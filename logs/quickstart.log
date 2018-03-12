@@ -1,0 +1,16 @@
+2018/03/02 18:56:43 [I] [asm_amd64.s:2361] http server Running on http://:8080
+2018/03/02 18:56:43 [C] [asm_amd64.s:2361] ListenAndServe:  listen tcp :8080: bind: address already in use
+2018/03/02 18:56:43 [I] [asm_amd64.s:2361] Admin server Running on localhost:8088
+2018/03/02 18:57:03 [I] [asm_amd64.s:2361] http server Running on http://:8080
+2018/03/02 18:57:03 [I] [asm_amd64.s:2361] Admin server Running on localhost:8088
+2018/03/06 17:02:39 [I] [asm_amd64.s:2361] http server Running on http://127.0.0.1:8888
+2018/03/06 17:05:13 [I] [asm_amd64.s:2361] http server Running on http://127.0.0.1:8888
+2018/03/07 09:56:12 [I] [asm_amd64.s:2361] http server Running on http://127.0.0.1:8888
+2018/03/07 10:04:19 [I] [asm_amd64.s:2361] http server Running on http://127.0.0.1:8888
+2018/03/07 10:17:03 [I] [main.go:37] 运行模式: prod 
+2018/03/07 10:17:03 [I] [asm_amd64.s:2361] http server Running on http://127.0.0.1:8888
+2018/03/07 10:17:27 [I] [main.go:37] 运行模式: prod 
+2018/03/07 10:17:27 [I] [asm_amd64.s:2361] http server Running on http://127.0.0.1:8888
+2018/03/07 10:27:39 [I] [main.go:39] 运行模式: prod 
+2018/03/07 10:27:39 [I] [main.go:40] 环境变量: a= 1 ,b= 2 
+2018/03/07 10:27:39 [I] [asm_amd64.s:2361] http server Running on http://127.0.0.1:8888
